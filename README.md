@@ -91,7 +91,14 @@ Me chamo Bruno de Lucas, tenho 20 anos e sou natural de Brasília. Concluí o en
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
           
-        
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
 
 <br/>
 <br/>
