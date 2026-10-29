@@ -2,7 +2,7 @@
 
 **` Engenheiro de Dados`**
 
-Me chamo Bruno de Lucas, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio no CEMCL, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin compartilhando posts educativos  "[Meu Linkedin](https://www.linkedin.com/in/brunodlucas0/)".
+Me chamo Bruno de Lucas, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio no CEMCL, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin compartilhando posts educativos  "[Bruno de Lucas](https://www.linkedin.com/in/brunodlucas0/)".
 
 <p align="left">
     </a> 
